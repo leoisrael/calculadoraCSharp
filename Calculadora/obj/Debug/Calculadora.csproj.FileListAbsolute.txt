@@ -1,0 +1,13 @@
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\bin\Debug\CalcCLib.dll
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\bin\Debug\CalcCLib.pdb
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+C:\Users\israel.albuquerque_s\source\repos\calcC\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache

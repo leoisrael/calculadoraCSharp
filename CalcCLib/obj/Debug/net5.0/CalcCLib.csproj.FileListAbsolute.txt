@@ -1,0 +1,11 @@
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\bin\Debug\net5.0\CalcCLib.deps.json
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\bin\Debug\net5.0\CalcCLib.dll
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\bin\Debug\net5.0\ref\CalcCLib.dll
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\bin\Debug\net5.0\CalcCLib.pdb
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\obj\Debug\net5.0\CalcCLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\obj\Debug\net5.0\CalcCLib.AssemblyInfoInputs.cache
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\obj\Debug\net5.0\CalcCLib.AssemblyInfo.cs
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\obj\Debug\net5.0\CalcCLib.csproj.CoreCompileInputs.cache
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\obj\Debug\net5.0\CalcCLib.dll
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\obj\Debug\net5.0\ref\CalcCLib.dll
+C:\Users\israel.albuquerque_s\source\repos\calcC\CalcCLib\obj\Debug\net5.0\CalcCLib.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcC", "calcC\calcC.csproj", "{D622B4E1-EA31-414A-A1F1-F8B4E02866EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcCLib", "CalcCLib\CalcCLib.csproj", "{ADFE3B15-8F81-455E-8D35-E1270D72BB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{6625BD06-0636-4CD7-838F-2FF1BA5C5962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D622B4E1-EA31-414A-A1F1-F8B4E02866EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D622B4E1-EA31-414A-A1F1-F8B4E02866EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D622B4E1-EA31-414A-A1F1-F8B4E02866EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D622B4E1-EA31-414A-A1F1-F8B4E02866EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFE3B15-8F81-455E-8D35-E1270D72BB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFE3B15-8F81-455E-8D35-E1270D72BB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFE3B15-8F81-455E-8D35-E1270D72BB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFE3B15-8F81-455E-8D35-E1270D72BB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6625BD06-0636-4CD7-838F-2FF1BA5C5962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6625BD06-0636-4CD7-838F-2FF1BA5C5962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6625BD06-0636-4CD7-838F-2FF1BA5C5962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6625BD06-0636-4CD7-838F-2FF1BA5C5962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D87CEB9-9628-4CBC-AAE3-7740100CCDF8}
+	EndGlobalSection
+EndGlobal
